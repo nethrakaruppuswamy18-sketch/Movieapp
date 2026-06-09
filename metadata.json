@@ -1,0 +1,6 @@
+{
+  "name": "Movie App",
+  "description": "A polished and responsive React application integrated with the TMDB API to search, browse, view details of popular movies, and manage a persisted favorites list.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
